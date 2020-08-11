@@ -1,2 +1,4 @@
 # anomaly_detection
-anomaly detection on temporal data. 
+    anomaly detection on temporal data. 
+    
+    Refer overall work, analysis from `updates on Anomaly Detection work.doc`
